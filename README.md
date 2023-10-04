@@ -1,0 +1,1 @@
+# rabbitmq-masstransit-direct
